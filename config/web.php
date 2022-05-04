@@ -12,6 +12,14 @@ $config = [
         '@npm'   => '@vendor/npm-asset',
     ],
     'modules' => [
+        'portal' => [
+            'class' => 'app\modules\portal\Module',
+            // ... other configurations for the module ...
+        ],
+        'admin' => [
+            'class' => 'app\modules\admin\Module',
+            // ... other configurations for the module ...
+        ],
         'user' => [
             'class' => Da\User\Module::class,
             'administrators' => ['admin'],
