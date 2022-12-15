@@ -1,7 +1,7 @@
 {
     "name": "anton-shynkarenko/yii2-rbac-template",
-    "description": "anton-shynkarenko/yii2-rbac-template",
-    "keywords": ["yii2", "framework", "basic", "project template", "admin", "rbac", "user", "user portal"],
+    "description": "Powerful Yii2 admin RBAC system",
+    "keywords": ["yii2", "framework", "basic", "project template", "admin", "rbac", "user", "user portal", "backend"],
     "homepage": "https://github.com/anton-shynkarenko/yii2-rbac-template",
     "type": "project",
     "license": "BSD-3-Clause",
